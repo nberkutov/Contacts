@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems (2)/Find all passwords/out/
+/Problems (2)/Find all passwords/out/production/classes/
+/Problems (4)/Getting information on a day/out/
+/Problems (4)/Getting information on a day/out/production/classes/
+/Problems (5)/The n-th day from the end of a month/out/
+/Problems (5)/The n-th day from the end of a month/out/production/classes/
+/Problems (6)/Print dates of a year with an offset/out/
+/Problems (6)/Print dates of a year with an offset/out/production/classes/
+/Problems (7)/Seconds since start of a day/out/
+/Problems (7)/Seconds since start of a day/out/production/classes/
+/Problems (8)/Return time without seconds/out/
+/Problems (8)/Return time without seconds/out/production/classes/
+/Problems (9)/Seconds between two time points/out/
+/Problems (9)/Seconds between two time points/out/production/classes/
+/Problems (10)/Add 11 hours and print the date/out/
+/Problems (10)/Add 11 hours and print the date/out/production/classes/
+/Problems (11)/Add days and subtract hours/out/
+/Problems (11)/Add days and subtract hours/out/production/classes/
+/Problems (15)/Static factory methods for Time/out/
+/Problems (15)/Static factory methods for Time/out/production/classes/
+/Contacts/task/src/contacts/PersonRecord.java

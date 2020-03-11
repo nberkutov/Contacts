@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Contacts-task_main" target="11" />
+      <module name="Contacts-task_test" target="11" />
+      <module name="Problems-Find_a_word_with_a_given_length_main" target="11" />
+      <module name="Problems-Find_a_word_with_a_given_length_test" target="11" />
+      <module name="Problems__10_-Add_11_hours_and_print_the_date_main" target="11" />
+      <module name="Problems__10_-Add_11_hours_and_print_the_date_test" target="11" />
+      <module name="Problems__11_-Add_days_and_subtract_hours_main" target="11" />
+      <module name="Problems__11_-Add_days_and_subtract_hours_test" target="11" />
+      <module name="Problems__12_-Merging_date-time_instances_main" target="11" />
+      <module name="Problems__12_-Merging_date-time_instances_test" target="11" />
+      <module name="Problems__13_-Who_is_who_main" target="11" />
+      <module name="Problems__13_-Who_is_who_test" target="11" />
+      <module name="Problems__14_-Sum_of_the_areas_main" target="11" />
+      <module name="Problems__14_-Sum_of_the_areas_test" target="11" />
+      <module name="Problems__15_-Static_factory_methods_for_Time_main" target="11" />
+      <module name="Problems__15_-Static_factory_methods_for_Time_test" target="11" />
+      <module name="Problems__16_-The_Range_class_main" target="11" />
+      <module name="Problems__16_-The_Range_class_test" target="11" />
+      <module name="Problems__1_-Extracting_words_from_a_text_main" target="11" />
+      <module name="Problems__1_-Extracting_words_from_a_text_test" target="11" />
+      <module name="Problems__2_-Find_all_passwords_main" target="11" />
+      <module name="Problems__2_-Find_all_passwords_test" target="11" />
+      <module name="Problems__3_-The_secret_enumeration_main" target="11" />
+      <module name="Problems__3_-The_secret_enumeration_test" target="11" />
+      <module name="Problems__4_-Getting_information_on_a_day_main" target="11" />
+      <module name="Problems__4_-Getting_information_on_a_day_test" target="11" />
+      <module name="Problems__5_-The_n-th_day_from_the_end_of_a_month_main" target="11" />
+      <module name="Problems__5_-The_n-th_day_from_the_end_of_a_month_test" target="11" />
+      <module name="Problems__6_-Print_dates_of_a_year_with_an_offset_main" target="11" />
+      <module name="Problems__6_-Print_dates_of_a_year_with_an_offset_test" target="11" />
+      <module name="Problems__7_-Seconds_since_start_of_a_day_main" target="11" />
+      <module name="Problems__7_-Seconds_since_start_of_a_day_test" target="11" />
+      <module name="Problems__8_-Return_time_without_seconds_main" target="11" />
+      <module name="Problems__8_-Return_time_without_seconds_test" target="11" />
+      <module name="Problems__9_-Seconds_between_two_time_points_main" target="11" />
+      <module name="Problems__9_-Seconds_between_two_time_points_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
